@@ -9,7 +9,8 @@
 
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
-𖦹 _AKI&ANGEL_ confort ship . 
+<p align="center"> 
+  𖦹 _AKI&ANGEL_ confort ship . 
 
 
 <p align="center"> 
