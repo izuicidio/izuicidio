@@ -3,9 +3,9 @@
 </p>
 
 <p align="center"> 
-⋆˚࿔  18yo ☆ borderline ☆ <b>ESP/ENG</b>
+⋆˚࿔ ㅤㅤ18yo ㅤ☆ ㅤborderline ㅤ☆ㅤ <b>ESP/ENG</b>
 <p align="center"> 
-introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
+introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
