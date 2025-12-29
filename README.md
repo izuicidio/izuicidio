@@ -9,3 +9,12 @@
 
   <p align="center"> 
 <img src="https://i.imgur.com/wAvEQtk.jpeg"/>
+
+ <p align="center"> 
+but i need you, Yoshiki. 
+ <p align="center"> 
+i can't function without you.
+ <p align="center"> 
+wouldn't matter even if i did.
+ <p align="center"> 
+i can't stop myself from liking you!
