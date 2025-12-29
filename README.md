@@ -22,10 +22,10 @@ gi, lol & valorant player.
 <img src="https://i.imgur.com/9UVUNw2.jpeg" width="500"/>
 
 <p align="center"> 
-<b><i>but i need you, Yoshiki._
+<b><i>but i need you, Yoshiki.
 <p align="center"> 
 i can't function without you.
 <p align="center"> 
-wouldn't matter even if i did.
+wouldn't matter even if i did,
 <p align="center"> 
 i can't stop myself from liking you!</b></i>
