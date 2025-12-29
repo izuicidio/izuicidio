@@ -10,7 +10,9 @@
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 <p align="center"> 
-  𖦹 _AKI&ANGEL_ confort ship . CSM, DANGANRONPA, GI fandom.
+𖦹 _AKI&ANGEL_ confort ship 
+<p align="center"> 
+CSM, DANGANRONPA, GI fandom. (˶°ㅁ°)!!
 
 
 <p align="center"> 
