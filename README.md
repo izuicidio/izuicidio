@@ -8,7 +8,7 @@
   socially withdrawn ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 
 <p align="center"> 
-<img src="https://i.imgur.com/G6UPqep.jpeg" width="500"/>
+<img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 
 
 <p align="center"> 
