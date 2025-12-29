@@ -31,4 +31,4 @@ wouldn't matter even if i did,
 i can't stop myself from liking you!</b></i>
 
 <p align="center"> 
-<img src="https://i.imgur.com/HAbv9vA.jpeg" width="500"/>
+<img src="https://i.imgur.com/m7FO4ti.jpeg" width="500"/>
