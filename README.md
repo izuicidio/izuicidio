@@ -11,7 +11,7 @@ introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 <p align="center"> 
-𖦹 _AKI&ANGEL_ confort ship 
+𖦹  <i>AKI&ANGEL<i> confort ship 
 <p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
