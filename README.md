@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-⋆˚࿔  18yo ☆ borderline ☆ ESP/ENG
+⋆˚࿔  18yo ☆ borderline ☆ <b>ESP/ENG</b>
 <p align="center"> 
 introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 
@@ -11,7 +11,7 @@ introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 
 <p align="center"> 
-𖦹 AKI&ANGEL comfort ship ٩(ˊᗜˋ*)و
+𖦹 <i>AKI&ANGEL</i> comfort ship ٩(ˊᗜˋ*)و
 
 <p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
