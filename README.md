@@ -12,7 +12,7 @@
 
 
 <p align="center"> 
-<img src="https://i.imgur.com/wAvEQtk.jpeg"/>
+<img src="https://i.imgur.com/wAvEQtk.jpeg"/> width="300"/>
 
 <p align="center"> 
 but i need you, Yoshiki. 
