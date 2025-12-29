@@ -11,12 +11,12 @@ introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 
 <p align="center"> 
-𖦹 <i><u>AKI</u>&ANGEL</i> comfort ship ٩(ˊᗜˋ*)و
+𖦹 <i>AKI&ANGEL</i> comfort ship ٩(ˊᗜˋ*)و
 
 <p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
-gi, ㅤlol ㅤ& ㅤvalorant player.
+<u>gi,</u> ㅤlol ㅤ& ㅤvalorant player.
 
 <p align="center"> 
 <img src="https://i.imgur.com/9UVUNw2.jpeg" width="500"/>
