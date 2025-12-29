@@ -5,7 +5,7 @@
 <p align="center"> 
 ⋆˚࿔  18 yo ☆ borderline ☆ **ESP/ENG**
 <p align="center"> 
-  socially withdrawn ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
+  introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
@@ -16,6 +16,8 @@ CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
 lol & valorant player 
 
+![status](https://img.shields.io/badge/status-offline-black)
+![lang](https://img.shields.io/badge/lang-esp/eng-blue)
 
 <p align="center"> 
 <img src="https://i.imgur.com/wAvEQtk.jpeg" width="500"/>
