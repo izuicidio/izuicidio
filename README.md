@@ -3,7 +3,8 @@
 </p>
 
 <p align="center"> 
-⋆˚࿔  18yo ☆ borderline ☆ **ESP/ENG**
+⋆˚࿔  18yo ☆ borderline ☆
+ <b>ESP/ENG<b>
 <p align="center"> 
 introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 
