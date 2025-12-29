@@ -16,7 +16,7 @@ introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 <p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
-gi, lol & valorant player.
+gi, ㅤlol ㅤ& ㅤvalorant player.
 
 <p align="center"> 
 <img src="https://i.imgur.com/9UVUNw2.jpeg" width="500"/>
