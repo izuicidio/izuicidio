@@ -11,9 +11,9 @@ introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
 
 <p align="center"> 
-𖦹 AKI&ANGEL confort ship ٩(ˊᗜˋ*)و
+𖦹 AKI&ANGEL comfort ship ٩(ˊᗜˋ*)و
 
- <p align="center"> 
+<p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
 gi, lol & valorant player.
@@ -22,10 +22,10 @@ gi, lol & valorant player.
 <img src="https://i.imgur.com/9UVUNw2.jpeg" width="500"/>
 
 <p align="center"> 
-but i need you, Yoshiki. 
+<b><i>but i need you, Yoshiki._
 <p align="center"> 
 i can't function without you.
 <p align="center"> 
 wouldn't matter even if i did.
 <p align="center"> 
-i can't stop myself from liking you!
+i can't stop myself from liking you!</b></i>
