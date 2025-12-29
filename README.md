@@ -12,7 +12,9 @@
 <p align="center"> 
 𖦹 _AKI&ANGEL_ confort ship 
 <p align="center"> 
-CSM, DANGANRONPA, GI fandom. (˶°ㅁ°)!!
+CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
+<p align="center"> 
+lol & valorant player 
 
 
 <p align="center"> 
