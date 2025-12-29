@@ -3,9 +3,9 @@
 </p>
 
 <p align="center"> 
-⋆˚࿔  18 yo ☆ borderline ☆ **ESP/ENG**
+⋆˚࿔  18yo ☆ borderline ☆ **ESP/ENG**
 <p align="center"> 
-  introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
+introvert ໒꒰ྀིっ˕ -｡꒱ྀི১ mentally unstable
 
 <p align="center"> 
 <img src="https://i.imgur.com/3WJ6TsR.jpeg" width="500"/>
@@ -14,13 +14,10 @@
 <p align="center"> 
 CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 <p align="center"> 
-lol & valorant player 
-
-![status](https://img.shields.io/badge/status-offline-black)
-![lang](https://img.shields.io/badge/lang-esp/eng-blue)
+gi, lol & valorant player.
 
 <p align="center"> 
-<img src="https://i.imgur.com/wAvEQtk.jpeg" width="500"/>
+<img src="https://i.imgur.com/9UVUNw2.jpeg" width="500"/>
 
 <p align="center"> 
 but i need you, Yoshiki. 
