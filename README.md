@@ -29,3 +29,6 @@ i can't function without you.
 wouldn't matter even if i did,
 <p align="center"> 
 i can't stop myself from liking you!</b></i>
+
+<p align="center"> 
+<img src="https://i.imgur.com/HAbv9vA.jpeg" width="500"/>
