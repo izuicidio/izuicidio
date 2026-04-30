@@ -19,7 +19,7 @@ introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/XRJgDdE.jpeg" width="500"/>
+<img src="https://i.imgur.com/S93ccl5.jpeg" width="500"/>
 </p>
 
 <p align="center"> 
