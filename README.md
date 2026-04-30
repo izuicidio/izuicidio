@@ -8,12 +8,16 @@
   </a>
 </p>
 
-<p align="left side">
- <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
-I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.
-By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.
-When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
-</p>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
+    </td>
+    <td style="border: none;">
+      Texto acá
+    </td>
+  </tr>
+</table>
 
 <p align="center"> 
 <img src="https://i.imgur.com/S93ccl5.jpeg" width="500" height="100"/>
