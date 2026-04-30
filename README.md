@@ -14,7 +14,7 @@
       <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
     </td>
     <td style="border: none;">
-      Texto acá
+      caca
     </td>
   </tr>
 </table>
