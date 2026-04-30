@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
+<img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="center">
 
 ### Hey there! I'm Izu
 
