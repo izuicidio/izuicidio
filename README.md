@@ -12,9 +12,8 @@
 
 ### Hey there! I'm Izu
 
-I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.  
-By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.  
-When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
+⋆˚࿔ ㅤㅤ18yo ㅤ☆ㅤ <b>ESP/ENG</b>
+introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 
 <br clear="left">
 
