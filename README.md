@@ -11,7 +11,7 @@
 <div align="center">
 
   <div align="center" style="max-width: 600px;">
-    <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="center">
+    <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
  <h3>Hey there! I'm Izu</h3>
 
  <p>
