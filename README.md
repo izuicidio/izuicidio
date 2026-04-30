@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-⋆˚࿔ ㅤㅤ18yo ㅤ☆ borderline ㅤ☆ㅤ <b>ESP/ENG</b>
+⋆˚࿔ ㅤㅤ18yo ㅤ☆ㅤ <b>ESP/ENG</b>
 <p align="center"> 
 introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 </p>
