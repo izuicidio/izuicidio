@@ -33,7 +33,7 @@ CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/BrLJXh1.jpeg" width="500"/>
+<img src="https://i.imgur.com/MdVD98C.jpeg" width="500"/>
 </p>
 
 <p align="center"> 
