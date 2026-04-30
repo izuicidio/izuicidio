@@ -8,14 +8,18 @@
   </a>
 </p>
 
-<p align="center">
-<table style="border: none;">
+<table>
   <tr>
-    <td style="border: none;">
+    <td style="border: none; padding-right: 15px;">
       <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
     </td>
     <td style="border: none;">
-      caca
+      <h3>Hey there! I'm Izu</h3>
+      <p>
+        I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.
+        By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.
+        When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
+      </p>
     </td>
   </tr>
 </table>
