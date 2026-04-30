@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/RqO3olr.png" width="500" height="100"/>
+<img src="https://i.imgur.com/fjHcex0.png" width="500" height="100"/>
 </p>
 
 <p align="center"> 
@@ -19,7 +19,7 @@ introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/S93ccl5.jpeg" width="500"/>
+<img src="https://i.imgur.com/RqO3olr.png" width="500"/>
 </p>
 
 <p align="center"> 
