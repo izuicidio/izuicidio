@@ -8,26 +8,8 @@
   </a>
 </p>
 
-<div align="center">
-
-  <div align="center"
- 
-  <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
- <h3>Hey there! I'm Izu</h3>
-
- <p>
-      ✮ 18yo ☆ ESP/ENG <br>
-      introvert ૮₍ ˃ ⤙ ˂ ₎ა mentally unstable
-    </p>
-
-  <br clear="left">
-
-  </div>
-
-</div>
-
 <p align="center"> 
-<img src="https://i.imgur.com/S93ccl5.jpeg" width="500" height="100"/>
+<img src="https://i.imgur.com/fjHcex0.png" width="500" height="100"/>
 </p>
 
 <p align="center"> 
