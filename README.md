@@ -37,13 +37,13 @@ CSM, DANGANRONPA, GI, TSHD fandom. (˶°ㅁ°)!!
 </p>
 
 <p align="center"> 
-<b><i>but i need you, Yoshiki.
+<b><i>siempre sentí que vos me odiabas
 <p align="center"> 
-i can't function without you.
+y a veces que yo te odiaba más
 <p align="center"> 
-wouldn't matter even if i did,
+yo nunca creí que vos me traicionaras
 <p align="center"> 
-i can't stop myself from liking you!</b></i>
+pero yo también soy una mala persona, mala persona</b></i>
 </p>
 
 <p align="center"> 
