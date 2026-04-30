@@ -8,6 +8,22 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
+    </td>
+    <td>
+      <h3>Hey there! I'm Izu</h3>
+      <p>
+        I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.
+        By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.
+        When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center"> 
 <img src="https://i.imgur.com/S93ccl5.jpeg" width="500" height="100"/>
 </p>
