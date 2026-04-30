@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td width="500">
+    <td width="120">
       <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
     </td>
     <td>
