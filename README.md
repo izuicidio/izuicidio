@@ -8,16 +8,24 @@
   </a>
 </p>
 
-<p align="center"> 
-<img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="center">
+<div align="center">
 
-### Hey there! I'm Izu
+  <div align="left" style="max-width: 600px;">
+    
+    <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
 
-⋆˚࿔ ㅤㅤ18yo ㅤ☆ㅤ <b>ESP/ENG</b>
+    <h3>Hey there! I'm Izu</h3>
 
-introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
+    <p>
+      ✮ 18yo ☆ ESP/ENG <br>
+      introvert ૮₍ ˃ ⤙ ˂ ₎ა mentally unstable
+    </p>
 
-<br clear="center">
+    <br clear="left">
+
+  </div>
+
+</div>
 
 <p align="center"> 
 <img src="https://i.imgur.com/S93ccl5.jpeg" width="500" height="100"/>
