@@ -8,21 +8,15 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td style="border: none; padding-right: 15px;">
-      <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140">
-    </td>
-    <td style="border: none;">
-      <h3>Hey there! I'm Izu</h3>
-      <p>
-        I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.
-        By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.
-        When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
+
+### Hey there! I'm Izu
+
+I'm a Data Science undergrad fueled by sambers and an unhealthy obsession with minimalist dark themes.  
+By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work.  
+When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a high-stress startup.
+
+<br clear="left">
 
 <p align="center"> 
 <img src="https://i.imgur.com/S93ccl5.jpeg" width="500" height="100"/>
