@@ -8,6 +8,7 @@
   </a>
 </p>
 
+<p align="center"> 
 <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
 
 ### Hey there! I'm Izu
