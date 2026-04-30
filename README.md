@@ -8,6 +8,7 @@
   </a>
 </p>
 
+<p align="center">
 <table style="border: none;">
   <tr>
     <td style="border: none;">
