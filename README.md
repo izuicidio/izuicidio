@@ -13,6 +13,7 @@
 ### Hey there! I'm Izu
 
 ⋆˚࿔ ㅤㅤ18yo ㅤ☆ㅤ <b>ESP/ENG</b>
+
 introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
 
 <br clear="left">
