@@ -15,7 +15,7 @@
 <p align="center"> 
 ⋆˚࿔ ㅤㅤ18yo ㅤ☆ㅤ <b>ESP/ENG</b>
 <p align="center"> 
-introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤmentally unstable
+introvertㅤ ໒꒰ྀིっ˕ -｡꒱ྀི১ ㅤartist
 </p>
 
 <p align="center"> 
