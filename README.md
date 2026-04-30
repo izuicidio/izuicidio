@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/6X033qs.png" width="1000" height="100"/>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0onqp60y32zz5ldpcg04ddw62&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=ffbdd7&bar_color_cover=false&mode=light">
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0onqp60y32zz5ldpcg04ddw62&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0onqp60y32zz5ldpcg04ddw62&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=ffd6e8&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
