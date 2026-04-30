@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/fjHcex0.png" width="500" height="100"/>
+<img src="https://i.imgur.com/RqO3olr.png" width="500" height="100"/>
 </p>
 
 <p align="center"> 
@@ -47,5 +47,5 @@ pero yo también soy una mala persona, mala persona</b></i>
 </p>
 
 <p align="center"> 
-<img src="https://i.imgur.com/m7FO4ti.jpeg" width="500"/>
+<img src="https://i.imgur.com/78wFATA.png" width="500"/>
 </p>
