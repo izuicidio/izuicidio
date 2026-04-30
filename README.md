@@ -1,5 +1,6 @@
 <p align="center"> 
 <img src="https://i.imgur.com/WDteFwP.gif"/>
+![Spotify](https://novatorem.vercel.app/api/spotify)
 </p>
 
 <p align="center"> 
