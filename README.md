@@ -11,17 +11,15 @@
 <div align="center">
 
   <div align="left" style="max-width: 600px;">
-    
     <img src="https://i.imgur.com/DKwqSBX.jpeg" width="140" align="left">
+ <h3>Hey there! I'm Izu</h3>
 
-    <h3>Hey there! I'm Izu</h3>
-
-    <p>
+ <p>
       ✮ 18yo ☆ ESP/ENG <br>
       introvert ૮₍ ˃ ⤙ ˂ ₎ა mentally unstable
     </p>
 
-    <br clear="left">
+  <br clear="left">
 
   </div>
 
